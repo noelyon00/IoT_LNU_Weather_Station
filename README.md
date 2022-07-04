@@ -154,4 +154,4 @@ The outcome of this project was as planned disregarding from the huge fact that 
 [heltecbin]: https://github.com/H-Ryan/Heltec/blob/main/PyCom%20MicroPython/Heltec%20PyCom%20MicroPython.zip?raw=true
 [driver]:https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
 [bread]:https://www.kjell.com/se/produkter/el-verktyg/elektronik/elektroniklabb/luxorparts-kopplingsdack-400-anslutningar-2-pack-p36283
-[maincode]:https://gits-15.sys.kth.se/nyef/IoT_LNU/blob/e183e498a4a4f850ac9b1b1c63bc0cc773a463cc/main.py
+[maincode]:https://github.com/noelyon00/IoT_LNU_Weather_Station/blob/690cc32ed9df611065fb0e7a0ce9c8aa824fd8cd/main.py
