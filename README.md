@@ -9,7 +9,7 @@ Noel Efrem(ne222md) at Linnaeus University
 ### Short project description
 The goal of this project is build an IoT device capable of measuring the temperature and humidity of a regular room. The data will be sent over to a IoT cloud platform where it is possible to visualise and trigger notifications.
 
-# Objective
+### Objective
 The motivation behind this project was a medical purpose. I am quite sensitive to low humidity (cause by regular ventilation) as it can lead allergic reactions and usually resolve by opening the window. However, during extreme seasons the cost of fixing humidity comes with the cost of messing up the room temperature which is why this IoT device is perfect for my condition.
 
 **NOTE!** A week before finalising this project I was having trouble getting readings from my dev-board. After thorough  troubleshooting of changing sensors, cables, flashing with Arduino instead of micropython and even discussion with other students with the same or similar project I came to the conclusion that my dev-board is faulty. This is the only component I did not replace and did not have time to do so before this report. Upon discussing this with a teacher, Fredrik, it was suggested that I document everything as it were working. I came up with a way to simulate the data so everything in this project is done as if I had correct readings. The code I use to read from my sensor is commented out but it is proven to work before and its place is a simulation using random but reasonable numbers
