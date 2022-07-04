@@ -130,7 +130,7 @@ Adafruit IO has it own visualisation dashoard which was used in this project. Th
 
 ![image](https://gits-15.sys.kth.se/storage/user/18917/files/ffd8c0e6-1fe1-46e1-862f-04d2b2bded40)
 
-Adafruit IO has also an action center from where the data can be used to trigger alerts and notification. I have used Discord webhooks in an IoT devices dedicated channel for myself. Discord is a great platform for me as a student to constantly uses it to get notified on.
+Adafruit IO has also an action center from where the data can be used to trigger alerts and notification. I have used Discord webhooks in an IoT devices dedicated channel for myself. Discord is a great platform for me as a student to constantly uses it to get notified on. <br />
 ![image](https://gits-15.sys.kth.se/storage/user/18917/files/3596f7ad-b9c1-4e4a-8e02-fbe163c822d8)
 
 ## Finalising the design
