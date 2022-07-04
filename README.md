@@ -34,7 +34,6 @@ The materials used can be found in the table below:
 * Pip, installer for python modules. Follow this [guide][pip]
 * Esptool, firmware installer. Install in CMD using ``` pip install esptool```
 * Atom, a user-friendly IDE.
-* Hardware drive, for the Heltec board use this [link][hardware]
 
 ### Flashing
 **Step 1: Install board driver**<br />
@@ -152,6 +151,5 @@ The outcome of this project was as planned disregarding from the huge fact that 
 [wires]: https://www.electrokit.com/produkt/labbsladd-20-pin-15cm-hona-hane/
 [pip]: https://pip.pypa.io/en/stable/installation/
 [heltecbin]: https://github.com/H-Ryan/Heltec/blob/main/PyCom%20MicroPython/Heltec%20PyCom%20MicroPython.zip?raw=true
-[driver]:https://www.silabs.com/documents/public/software/CP210x_Windows_Drivers.zip
 [bread]:https://www.kjell.com/se/produkter/el-verktyg/elektronik/elektroniklabb/luxorparts-kopplingsdack-400-anslutningar-2-pack-p36283
 [maincode]:https://github.com/noelyon00/IoT_LNU_Weather_Station/blob/690cc32ed9df611065fb0e7a0ce9c8aa824fd8cd/main.py
