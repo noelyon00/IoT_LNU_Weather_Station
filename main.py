@@ -18,7 +18,7 @@ READINGS_INTERVAL = 20000 # milliseconds
 
 # Wireless network credentials
 WIFI_SSID = "COMHEM_3679f9"
-WIFI_PASS = "rzmjhtiz" # No this is not our regular password. :)
+WIFI_PASS = "********" # No this is not our regular password. :)
 
 # Adafruit IO (AIO) configuration and credentials
 AIO_SERVER = "io.adafruit.com"
